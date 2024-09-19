@@ -4319,10 +4319,10 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"highcharts@npm:11.4.0":
-  version: 11.4.0
-  resolution: "highcharts@npm:11.4.0"
-  checksum: 873e6619148d346223f7a98e3d23c1d58975ef4143d67d57ef88898c967495519b76b47c1f546c48535362bf4542cbe4f9f3423cc4339db152454f86e7887ddf
+"highcharts@npm:11.4.6":
+  version: 11.4.6
+  resolution: "highcharts@npm:11.4.6"
+  checksum: 7aa3871d19892c20a95b36754cc8c0234af0dd310e1fbe9a87cf489c315d55ac99497d1dba87f0bea8356b9e5886231bbb25f6de0b1dba92b31456aeee481cab
   languageName: node
   linkType: hard
 
@@ -6567,7 +6567,7 @@ browserlist@latest:
     eslint-plugin-promise: 6.1.1
     eslint-plugin-vue: 9.24.0
     file-saver: 2.0.5
-    highcharts: 11.4.0
+    highcharts: 11.4.6
     html-validate: 8.18.1
     ical.js: 1.5.0
     jquery: 3.7.1
