@@ -1795,10 +1795,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/devtools-api@npm:^6.5.1":
-  version: 6.6.1
-  resolution: "@vue/devtools-api@npm:6.6.1"
-  checksum: cf12b5ebcc7729725087072289410107b55bb82e0b86b8442e4e85516977110a8a3f4e1dec763be8b567a59173703b4e9c0ac1b0489bb2bb81363af7ea258a27
+"@vue/devtools-api@npm:^6.6.3":
+  version: 6.6.3
+  resolution: "@vue/devtools-api@npm:6.6.3"
+  checksum: 4dc7e980bc50557b128655ca447d2f10ccda896a88d0560eec2c391a8b97ddb63547d79d30d76a6e9e2ec5368ee73c4a66bc44367cc607c0262c328fe648de8a
   languageName: node
   linkType: hard
 
@@ -6597,7 +6597,7 @@ browserlist@latest:
     vanillajs-datepicker: 1.3.4
     vite: 4.5.3
     vue: 3.4.21
-    vue-router: 4.3.0
+    vue-router: 4.4.1
     zxcvbn: 4.4.2
   languageName: unknown
   linkType: soft
@@ -7568,14 +7568,14 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"vue-router@npm:4.3.0":
-  version: 4.3.0
-  resolution: "vue-router@npm:4.3.0"
+"vue-router@npm:4.4.1":
+  version: 4.4.1
+  resolution: "vue-router@npm:4.4.1"
   dependencies:
-    "@vue/devtools-api": ^6.5.1
+    "@vue/devtools-api": ^6.6.3
   peerDependencies:
     vue: ^3.2.0
-  checksum: 0059261d39c8a6f61d3cdf4b74cfcd6a109062e0562f2db5a387cdf4d1b186dfdd2dddcacbf83ce2842d7c3ec9a63d8a6d427c4cec1db61372f4a06048496354
+  checksum: d33a968abc7dc38d0483e53843d1dab20aa7c934ef40c61e196454b738aac1a4af589744817815b7089a1d9ecab53780c655a93302f68bd63971254e77903bda
   languageName: node
   linkType: hard
 
